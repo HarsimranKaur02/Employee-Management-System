@@ -2,10 +2,10 @@
 This project can efficiently manage employee records in a small company. The user will first have to enter the correct password to access the system. In this project, records can be added, updated and deleted. Records can be searched by the employee code which is unique to every employee. Some additional features are also there.
 
 # Login Page
-![image](https://user-images.githubusercontent.com/86147718/125670026-5f8bf1af-476b-491f-98f1-e6a5ae32145e.png)
+![image](https://user-images.githubusercontent.com/86147718/125670701-1aaa89ad-f4af-4d0c-931e-7df035a489b9.png)
 
 # Home Page
-![image](https://user-images.githubusercontent.com/86147718/125670098-cd2ded95-76d7-4dbe-a23b-06013318aed1.png)
+![image](https://user-images.githubusercontent.com/86147718/125670638-b15a3ec2-66e0-4cb0-877a-e9eb017d2459.png)
 
 # View Records
 ![image](https://user-images.githubusercontent.com/86147718/125670224-39fd380b-9787-4e1e-afed-9e87b2955577.png)
